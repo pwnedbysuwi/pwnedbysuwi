@@ -67,4 +67,6 @@
   </a>
 </div>
 
+All projects are set as private by default, unless there is a business-related necessity to share them.
+
 ###
