@@ -2,26 +2,27 @@
 
 ###
 
-<h2 align="center">丶About</h2>
-
-
-<br clear="both">
-
-<h4 align="center">Developer and Designer for local brands.<br> I collaborate with small businesses, entrepreneurs, and communities to deliver modern, <br>user-focused digital experiences that align with current design and development standards.</h4>
-
-###
-
-<h2 align="center">丶Currently Exploring</h2>
+<h3 align="center">丶About</h3>
 
 ###
 
 <br clear="both">
 
-<h4 align="center">- Component-based architecture in React<br>- Advanced animation workflows with Framer Motion & GSAP<br>- Accessibility-first and inclusive design practices (WCAG standards)<br>- Designing & documenting design systems for scalability<br>- Building micro SaaS tools for creatives and small teams<br>- Streamlining handoff between design and development<br>- Headless CMS integrations (Sanity, Contentful, Strapi)<br>- Frontend performance optimization and Lighthouse auditing<br>- Astro + Tailwind workflows for fast, modern static sites<br>- Creating a personal design token system for consistent theming</h4>
+<h5 align="center">Developer and Designer for local brands.<br> I collaborate with small businesses, entrepreneurs, and communities to deliver modern, <br>user-focused digital experiences that align with current design and development standards.</h5>
 
 ###
 
-<h2 align="center">丶Let's Connect</h2>
+<h3 align="center">丶Currently Exploring</h3>
+
+###
+
+<br clear="both">
+
+<h5 align="center">- Component-based architecture in React<br>- Advanced animation workflows with Framer Motion & GSAP<br>- Accessibility-first and inclusive design practices (WCAG standards)<br>- Designing & documenting design systems for scalability<br>- Building micro SaaS tools for creatives and small teams<br>- Streamlining handoff between design and development<br>- Headless CMS integrations (Sanity, Contentful, Strapi)<br>- Frontend performance optimization and Lighthouse auditing<br>- Astro + Tailwind workflows for fast, modern static sites<br>- Creating a personal design token system for consistent theming</h5>
+
+###
+
+<h3 align="center">丶Let's Connect</h3>
 
 ###
 
