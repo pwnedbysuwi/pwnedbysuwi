@@ -1,61 +1,91 @@
-<br clear="both">
-
-<p align="center"></p>
-
+<h2 align="center">Front-end & UI/UX Designer | Based in the Philippines</h2>
 
 ###
 
-<p align="center">𝖘𝖙𝖆𝖈𝖐</p>
+<h3 align="left">丶About</h3>
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-</div>
+<h5 align="left">Developer and Designer for local brands.<br> I collaborate with small businesses, entrepreneurs, and communities to deliver modern, <br>user-focused digital experiences that align with current design and development standards.</h5>
 
 ###
 
-<p align="center">𝖝 𝖝 𝖝</p>
+<h3 align="left">丶Currently Exploring</h3>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingfxii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<h5 align="left">- Component-based architecture in React<br>- Advanced animation workflows with Framer Motion & GSAP<br>- Accessibility-first and inclusive design practices (WCAG standards)<br>- Designing & documenting design systems for scalability<br>- Building micro SaaS tools for creatives and small teams<br>- Streamlining handoff between design and development<br>- Headless CMS integrations (Sanity, Contentful, Strapi)<br>- Frontend performance optimization and Lighthouse auditing<br>- Astro + Tailwind workflows for fast, modern static sites<br>- Creating a personal design token system for consistent theming</h5>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/codingfxii/count.svg?"  />
-</div>
+<h3 align="left">丶Let's Connect</h3>
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/xoxa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21nyjfsqgq5r52bb35jeqpg6y"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/jefferson-aguilar-b774282b6/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=390189&logoColor=&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://guns.lol/purpp" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=390189&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/0reo.runtz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=390189&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="xyzdraco9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=390189&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
 </div>
 
+###
+
+<h5 align="center">Stack & Tools</h5>
+
+###
+
 <div align="center">
-All projects are set as private by default, unless there is a business-related necessity to share them.
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="30" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sass/CC6699" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="30" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/babel/F9DC3E" height="30" alt="babel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs logo"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codingfxii&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingfxii&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=codingfxii&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=codingfxii&theme=tokyonight&column=-1&row=1&margin-w=1&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
