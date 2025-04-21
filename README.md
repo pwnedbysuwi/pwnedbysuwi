@@ -4,7 +4,6 @@
 
 <h2 align="center">丶About</h2>
 
-###
 
 <br clear="both">
 
