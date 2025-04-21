@@ -2,19 +2,19 @@
 
 ###
 
-<h3 align="left">丶About</h3>
+<h3 align="center">丶About</h3>
 
 ###
 
-<h5 align="left">Developer and Designer for local brands.<br> I collaborate with small businesses, entrepreneurs, and communities to deliver modern, <br>user-focused digital experiences that align with current design and development standards.</h5>
+<h4 align="left">Developer and Designer for local brands.<br> I collaborate with small businesses, entrepreneurs, and communities to deliver modern, <br>user-focused digital experiences that align with current design and development standards.</h4>
 
 ###
 
-<h3 align="left">丶Currently Exploring</h3>
+<h3 align="center">丶Currently Exploring</h3>
 
 ###
 
-<h5 align="left">- Component-based architecture in React<br>- Advanced animation workflows with Framer Motion & GSAP<br>- Accessibility-first and inclusive design practices (WCAG standards)<br>- Designing & documenting design systems for scalability<br>- Building micro SaaS tools for creatives and small teams<br>- Streamlining handoff between design and development<br>- Headless CMS integrations (Sanity, Contentful, Strapi)<br>- Frontend performance optimization and Lighthouse auditing<br>- Astro + Tailwind workflows for fast, modern static sites<br>- Creating a personal design token system for consistent theming</h5>
+<h4 align="left">- Component-based architecture in React<br>- Advanced animation workflows with Framer Motion & GSAP<br>- Accessibility-first and inclusive design practices (WCAG standards)<br>- Designing & documenting design systems for scalability<br>- Building micro SaaS tools for creatives and small teams<br>- Streamlining handoff between design and development<br>- Headless CMS integrations (Sanity, Contentful, Strapi)<br>- Frontend performance optimization and Lighthouse auditing<br>- Astro + Tailwind workflows for fast, modern static sites<br>- Creating a personal design token system for consistent theming</h4>
 
 ###
 
