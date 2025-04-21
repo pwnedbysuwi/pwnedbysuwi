@@ -18,11 +18,11 @@
 
 ###
 
-<h3 align="left">丶Let's Connect</h3>
+<h3 align="center">丶Let's Connect</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/jefferson-aguilar-b774282b6/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=390189&logoColor=&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
