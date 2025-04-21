@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">丶About</h3>
+<h2 align="center">丶About</h2>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="center">丶Currently Exploring</h3>
+<h2 align="center">丶Currently Exploring</h2>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="center">丶Let's Connect</h3>
+<h2 align="center">丶Let's Connect</h2>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<h5 align="center">Stack & Tools</h5>
+<h2 align="center">Stack & Tools</h2>
 
 ###
 
