@@ -2,14 +2,6 @@
 
 ###
 
-<h3 align="center">丶About</h3>
-
-
-
-<h5 align="center">Developer and Designer for local brands.<br> I collaborate with small businesses, entrepreneurs, and communities to deliver modern, <br>user-focused digital experiences that align with current design and development standards.</h5>
-
-###
-
 <h3 align="center">丶Currently Exploring</h3>
 
 
