@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jefferson-aguilar-b774282b6/" target="_blank">
+  <a href="https://www.linkedin.com/in//" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=390189&logoColor=&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://guns.lol/purpp" target="_blank">
